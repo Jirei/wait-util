@@ -1,6 +1,14 @@
 {
   "name": "wait-util",
-  "version": "0.1.0",
+  "version": "0.1.1",
+  "homepage": "https://github.com/Jirei/wait-util",
+  "description": "Utility function to easily add a wait time",
+  "keywords": [
+    "utility",
+    "promise",
+    "async",
+    "wait"
+  ],
   "type": "module",
   "scripts": {
     "dev": "vite",
